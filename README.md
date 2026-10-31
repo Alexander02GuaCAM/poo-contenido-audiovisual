@@ -12,6 +12,10 @@ relacionan con ellos, desde un menú por consola.
 
 ## Clases y funcionalidades añadidas
 
+## Diagrama de clases
+
+![Diagrama de clases](docs/diagrama_clasesu2.png)
+
 ### Clases de la Etapa 2
 
 | Clase | Relación | Con | Descripción |
